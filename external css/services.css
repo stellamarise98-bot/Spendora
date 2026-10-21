@@ -1,0 +1,31 @@
+#paragraph{
+    font-weight: bold;
+}
+
+#customer{
+
+background-color: aqua;
+margin: 20px;
+padding: 30px;
+border-radius: 20px;
+
+
+
+}
+#main{
+display: flex;
+
+
+}
+
+
+.one{
+
+background-color: bisque;
+margin-left: 20px;
+text-align: center;
+padding: 10px;
+border-radius: 20px;
+
+
+}
